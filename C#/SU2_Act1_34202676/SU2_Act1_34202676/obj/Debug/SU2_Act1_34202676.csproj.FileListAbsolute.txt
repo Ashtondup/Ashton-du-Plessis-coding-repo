@@ -1,0 +1,11 @@
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\bin\Debug\SU2_Act1_34202676.exe.config
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\bin\Debug\SU2_Act1_34202676.exe
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\bin\Debug\SU2_Act1_34202676.pdb
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.csproj.AssemblyReference.cache
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.Form1.resources
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.Properties.Resources.resources
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.csproj.GenerateResource.cache
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.csproj.CoreCompileInputs.cache
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.exe
+C:\Users\ashto\Desktop\CMPG\2022\CMPG212\Prakties\SU2_Act1_34202676\SU2_Act1_34202676\obj\Debug\SU2_Act1_34202676.pdb

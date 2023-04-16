@@ -1,0 +1,7 @@
+SavingsAccount("1780306403","MacArthur, D",550,550)
+ChequeAccount("2451348675","Peters, M",430,-450)
+SavingsAccount("1678323452","Doe, J",500,250)
+ChequeAccount("2357964244","Peters, D",230,-50)
+SavingsAccount("1456723452","Doyle, C",340,500)
+ChequeAccount("2567843428","Greystoke, J",-320,-50)
+ChequeAccount("2678975425","Shelley, M",-320,-500)
