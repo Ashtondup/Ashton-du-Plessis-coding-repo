@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac3.1_Circaes_34202676", "Prac3.1_Circaes_34202676\Prac3.1_Circaes_34202676.csproj", "{BE606D01-9DB0-4357-A933-322ACF0C441E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE606D01-9DB0-4357-A933-322ACF0C441E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE606D01-9DB0-4357-A933-322ACF0C441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE606D01-9DB0-4357-A933-322ACF0C441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE606D01-9DB0-4357-A933-322ACF0C441E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BD8811-E933-4AB6-9401-E763A54A8299}
+	EndGlobalSection
+EndGlobal

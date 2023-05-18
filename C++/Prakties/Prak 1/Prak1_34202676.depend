@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627986616 source:c:\users\ashto\desktop\cmpg\2021\121\prakties\prak1_34202676\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<iomanip>
+

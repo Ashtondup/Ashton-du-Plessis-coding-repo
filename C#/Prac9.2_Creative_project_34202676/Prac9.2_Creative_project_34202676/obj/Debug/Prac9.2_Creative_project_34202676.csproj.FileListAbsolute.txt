@@ -1,0 +1,10 @@
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\bin\Debug\Prac9.2_Creative_project_34202676.exe.config
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\bin\Debug\Prac9.2_Creative_project_34202676.exe
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\bin\Debug\Prac9.2_Creative_project_34202676.pdb
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9.2_Creative_project_34202676.csprojAssemblyReference.cache
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9._2_Creative_project_34202676.Form1.resources
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9._2_Creative_project_34202676.Properties.Resources.resources
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9.2_Creative_project_34202676.csproj.GenerateResource.cache
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9.2_Creative_project_34202676.csproj.CoreCompileInputs.cache
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9.2_Creative_project_34202676.exe
+C:\Users\ashto\Desktop\CMPG\2021\122\Prak\Prac9.2_Creative_project_34202676\Prac9.2_Creative_project_34202676\obj\Debug\Prac9.2_Creative_project_34202676.pdb
