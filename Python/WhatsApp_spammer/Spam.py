@@ -1,14 +1,12 @@
 import pyautogui as pt
 import time
 
-limit = input("Enter the limit: ")
-message = input("Enter message to spam: ")
-i = 0
-time.sleep(10)
-
-while i < int(limit):
-    pt.typewrite(message)
+f = open("Spam_message.txt", "r")
+time.sleep(5)
+while f:
+    line = f.readline()
     # message is written where the cursor is    
     pt.press("enter")
+    if line == "":
+        break
     
-    i+=1
